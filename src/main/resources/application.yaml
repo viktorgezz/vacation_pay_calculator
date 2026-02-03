@@ -1,3 +1,7 @@
 spring:
   application:
     name: vacation_pay_calculator
+
+logging:
+  level:
+    ru.viktorgezz.vacation_pay_calculator: DEBUG
